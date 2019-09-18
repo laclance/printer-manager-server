@@ -1,7 +1,6 @@
 require('dotenv').config();
 
 const options = {
-    force: true,
     define: {
         timestamps: false
     },
